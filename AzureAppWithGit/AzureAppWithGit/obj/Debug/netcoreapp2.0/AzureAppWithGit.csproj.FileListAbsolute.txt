@@ -1,0 +1,11 @@
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\bin\Debug\netcoreapp2.0\AzureAppWithGit.deps.json
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\bin\Debug\netcoreapp2.0\AzureAppWithGit.runtimeconfig.json
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\bin\Debug\netcoreapp2.0\AzureAppWithGit.runtimeconfig.dev.json
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\bin\Debug\netcoreapp2.0\AzureAppWithGit.dll
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\bin\Debug\netcoreapp2.0\AzureAppWithGit.pdb
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\obj\Debug\netcoreapp2.0\AzureAppWithGit.csprojResolveAssemblyReference.cache
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\obj\Debug\netcoreapp2.0\AzureAppWithGit.csproj.CoreCompileInputs.cache
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\obj\Debug\netcoreapp2.0\AzureAppWithGit.AssemblyInfoInputs.cache
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\obj\Debug\netcoreapp2.0\AzureAppWithGit.AssemblyInfo.cs
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\obj\Debug\netcoreapp2.0\AzureAppWithGit.dll
+C:\Dev\Azure\AzureTest\AzureAppWithGit\AzureAppWithGit\obj\Debug\netcoreapp2.0\AzureAppWithGit.pdb

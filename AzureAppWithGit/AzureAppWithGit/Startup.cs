@@ -27,7 +27,7 @@ namespace AzureAppWithGit
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World! unleash commit5 to git");
+                await context.Response.WriteAsync("Hello World! unleash commit6 to git");
             });
         }
     }
